@@ -1,0 +1,17 @@
+# Java artifact
+*.jar
+*.war
+*.ear
+*.class
+
+# Java build
+out
+build
+
+# macOS
+*.DS_Store
+
+# IntelliJ IDEA
+*.iml
+.idea
+
